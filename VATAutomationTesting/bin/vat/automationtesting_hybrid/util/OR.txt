@@ -1,0 +1,39 @@
+# Home Page Objects
+btn_SignIn = .//*[@id='header']/div[2]/div/div/nav/div[1]/a
+#My Account Page
+btn_LogOut = logout
+
+# Login Page Object
+txtbx_createEmail = .//*[@id='email_create']
+btn_CreateAccount = .//*[@id='SubmitCreate']
+txtbx_UserEmail = .//*[@id='email']
+txtbx_Password = .//*[@id='passwd']
+btn_LogIn = .//*[@id='SubmitLogin']
+
+# Create Account Page Object
+radbtn_Mr = .//*[@id='id_gender1']
+txtbx_FirstName = .//*[@id='customer_firstname']
+txtbx_LastName = .//*[@id='customer_lastname']
+txtbx_CreateEmail = .//*[@id='email']
+txtbx_Password = .//*[@id='passwd']
+dropdwn_Days = .//*[@id='days']
+dropdwn_Months = .//*[@id='months']
+dropdwn_Years = .//*[@id='years']
+checkbx_Newsletter = .//*[@id='newsletter']
+checkbx_SpecialOffers = .//*[@id='optin']
+txtbx_FirstName_Address = .//*[@id='firstname']
+txtbx_LastName_Address = .//*[@id='lastname']
+txtbx_Company = .//*[@id='company']
+txtbx_Address1 = .//*[@id='address1']
+txtbx_Address2 = .//*[@id='address2']
+txtbx_City = .//*[@id='city']
+txtbx_State = .//*[@id='id_state']
+txtbx_PostalCode = .//*[@id='postcode']
+txtbx_Country = .//*[@id='id_country']
+txtbx_AddInfo = .//*[@id='other']
+txtbx_HomePhone = .//*[@id='phone']
+txtbx_MobilePhone = .//*[@id='phone_mobile']
+txtbx_AddressAlias = .//*[@id='alias']
+btn_Register = .//*[@id='submitAccount']
+
+

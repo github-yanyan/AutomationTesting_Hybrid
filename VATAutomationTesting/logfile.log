@@ -1,0 +1,173 @@
+2017-03-02 13:38:40,388 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:38:40,388 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:38:40,388 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 13:38:40,388 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:38:40,388 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:38:40,388 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 13:38:40,388 INFO  [Log] Opening Browser 
+2017-03-02 13:38:42,987 INFO  [Log] Chrome browser started 
+2017-03-02 13:38:43,190 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 13:38:48,316 INFO  [Log] Webelement --- btn_SignIn --- didn't load within 5 seconds: Timed out after 5 seconds waiting for vat.automationtesting_hybrid.util.ActionKeywords$1@1500b2f3
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'PC-036-20160513', ip: '192.168.100.38', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: driver.version: unknown 
+2017-03-02 13:38:48,503 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_003_2017-03-02 13.38.48 taken 
+2017-03-02 13:38:49,774 INFO  [Log] Closing the browser 
+2017-03-02 13:38:51,042 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 13:38:51,042 INFO  [Log] X 
+2017-03-02 13:38:51,042 INFO  [Log] X 
+2017-03-02 13:38:51,042 INFO  [Log] X 
+2017-03-02 13:38:51,042 INFO  [Log] X 
+2017-03-02 13:40:08,571 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:40:08,571 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:40:08,571 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 13:40:08,571 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:40:08,571 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:40:08,571 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 13:40:08,571 INFO  [Log] Opening Browser 
+2017-03-02 13:40:11,144 INFO  [Log] Chrome browser started 
+2017-03-02 13:40:11,425 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 13:40:16,497 INFO  [Log] Page --- http://automationpractice.com/index.php --- didn't load within 5 seconds: timeout: cannot determine loading status
+from timeout: Timed out receiving message from renderer: -0.037
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 5.05 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'PC-036-20160513', ip: '192.168.100.38', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.24.417431 (9aea000394714d2fbb20850021f6204f2256b9cf), userDataDir=C:\Users\VAT036\AppData\Local\Temp\scoped_dir10544_23331}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=56.0.2924.87, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ba8e7a166541e1c6fcbfb1ed019ac8bc 
+2017-03-02 13:40:16,706 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_002_2017-03-02 13.40.16 taken 
+2017-03-02 13:40:17,978 INFO  [Log] Closing the browser 
+2017-03-02 13:40:19,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 13:40:19,298 INFO  [Log] X 
+2017-03-02 13:40:19,298 INFO  [Log] X 
+2017-03-02 13:40:19,298 INFO  [Log] X 
+2017-03-02 13:40:19,298 INFO  [Log] X 
+2017-03-02 13:41:03,088 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:41:03,088 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:41:03,088 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 13:41:03,088 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:41:03,088 INFO  [Log] **************************************************************************************** 
+2017-03-02 13:41:03,088 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 13:41:03,088 INFO  [Log] Opening Browser 
+2017-03-02 13:41:05,698 INFO  [Log] Chrome browser started 
+2017-03-02 13:41:05,886 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 13:41:16,579 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 13:41:19,034 INFO  [Log] Entering the text in txtbx_UserEmail 
+2017-03-02 13:41:19,358 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-02 13:41:19,596 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-02 13:41:20,733 INFO  [Log] Wait for 5 seconds 
+2017-03-02 13:41:30,830 INFO  [Log] Screenshot of niceone taken 
+2017-03-02 13:41:32,234 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-03-02 13:42:02,390 INFO  [Log] Webelement --- btn_LogOut --- didn't load within 30 seconds: Timed out after 30 seconds waiting for vat.automationtesting_hybrid.util.ActionKeywords$1@4c2bb6e0
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'PC-036-20160513', ip: '192.168.100.38', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: driver.version: unknown 
+2017-03-02 13:42:02,775 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_008_2017-03-02 13.42.02 taken 
+2017-03-02 13:42:02,950 INFO  [Log] Closing the browser 
+2017-03-02 13:42:04,310 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 13:42:04,310 INFO  [Log] X 
+2017-03-02 13:42:04,310 INFO  [Log] X 
+2017-03-02 13:42:04,310 INFO  [Log] X 
+2017-03-02 13:42:04,310 INFO  [Log] X 
+2017-03-02 14:15:07,213 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:15:07,214 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:15:07,214 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 14:15:07,214 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:15:07,214 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:15:07,218 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 14:15:07,220 INFO  [Log] Opening Browser 
+2017-03-02 14:15:10,108 INFO  [Log] Chrome browser started 
+2017-03-02 14:15:10,321 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 14:15:20,680 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 14:15:20,916 INFO  [Log] Entering the text in txtbx_UserEmail 
+2017-03-02 14:15:23,353 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-02 14:15:23,669 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-02 14:15:24,766 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a text value from a numeric cell 
+2017-03-02 14:24:52,743 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:24:52,743 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:24:52,744 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 14:24:52,744 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:24:52,744 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:24:52,747 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 14:24:52,749 INFO  [Log] Opening Browser 
+2017-03-02 14:24:55,373 INFO  [Log] Chrome browser started 
+2017-03-02 14:24:55,381 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 14:24:55,382 INFO  [Log] X 
+2017-03-02 14:24:55,382 INFO  [Log] X 
+2017-03-02 14:24:55,382 INFO  [Log] X 
+2017-03-02 14:24:55,382 INFO  [Log] X 
+2017-03-02 14:25:24,048 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:25:24,049 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:25:24,049 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 14:25:24,049 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:25:24,049 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:25:24,052 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 14:25:24,057 INFO  [Log] Opening Browser 
+2017-03-02 14:25:26,643 INFO  [Log] Chrome browser started 
+2017-03-02 14:25:26,859 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 14:25:39,033 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 14:25:41,491 INFO  [Log] Entering the text in txtbx_UserEmail 
+2017-03-02 14:25:41,930 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-02 14:25:42,204 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-02 14:25:43,605 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a text value from a numeric cell 
+2017-03-02 14:25:43,605 INFO  [Log] Wait for  seconds 
+2017-03-02 14:25:43,606 ERROR [Log] Error occur while waiting script to load --- For input string: "" 
+2017-03-02 14:25:43,723 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_007_2017-03-02 14.25.43 taken 
+2017-03-02 14:25:45,016 INFO  [Log] Closing the browser 
+2017-03-02 14:25:46,501 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 14:25:46,501 INFO  [Log] X 
+2017-03-02 14:25:46,501 INFO  [Log] X 
+2017-03-02 14:25:46,501 INFO  [Log] X 
+2017-03-02 14:25:46,501 INFO  [Log] X 
+2017-03-02 14:26:51,427 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:26:51,427 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:26:51,427 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 14:26:51,427 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:26:51,427 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:26:51,431 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 14:26:51,433 INFO  [Log] Opening Browser 
+2017-03-02 14:26:54,061 INFO  [Log] Chrome browser started 
+2017-03-02 14:26:54,267 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 14:27:04,787 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 14:27:07,280 INFO  [Log] Entering the text in txtbx_UserEmail 
+2017-03-02 14:27:07,634 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-02 14:27:07,873 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-02 14:27:09,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : Cannot get a text value from a numeric cell 
+2017-03-02 14:27:09,138 INFO  [Log] Wait for  seconds 
+2017-03-02 14:27:09,138 ERROR [Log] Error occur while waiting script to load --- For input string: "" 
+2017-03-02 14:27:09,247 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_007_2017-03-02 14.27.09 taken 
+2017-03-02 14:27:10,529 INFO  [Log] Closing the browser 
+2017-03-02 14:27:11,926 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 14:27:11,926 INFO  [Log] X 
+2017-03-02 14:27:11,926 INFO  [Log] X 
+2017-03-02 14:27:11,926 INFO  [Log] X 
+2017-03-02 14:27:11,926 INFO  [Log] X 
+2017-03-02 14:29:48,758 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:29:48,759 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:29:48,759 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-03-02 14:29:48,759 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:29:48,759 INFO  [Log] **************************************************************************************** 
+2017-03-02 14:29:48,762 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-03-02 14:29:48,764 INFO  [Log] Opening Browser 
+2017-03-02 14:29:51,344 INFO  [Log] Chrome browser started 
+2017-03-02 14:29:51,550 INFO  [Log] Navigating to URL http://automationpractice.com/index.php 
+2017-03-02 14:30:02,577 INFO  [Log] Clicking on Webelement btn_SignIn 
+2017-03-02 14:30:04,976 INFO  [Log] Entering the text in txtbx_UserEmail 
+2017-03-02 14:30:05,360 INFO  [Log] Entering the text in txtbx_Password 
+2017-03-02 14:30:05,643 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-03-02 14:30:06,898 INFO  [Log] Wait for 20 seconds 
+2017-03-02 14:30:06,974 INFO  [Log] Screenshot of niceone taken 
+2017-03-02 14:30:08,424 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-03-02 14:30:38,481 INFO  [Log] Webelement --- btn_LogOut --- didn't load within 30 seconds: Timed out after 30 seconds waiting for vat.automationtesting_hybrid.util.ActionKeywords$1@3e62d773
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 16:57:40'
+System info: host: 'PC-036-20160513', ip: '192.168.100.38', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_66'
+Driver info: driver.version: unknown 
+2017-03-02 14:30:38,617 INFO  [Log] [FAILED]Screenshot of [FAILED]_LogIn_01_TS_008_2017-03-02 14.30.38 taken 
+2017-03-02 14:30:38,791 INFO  [Log] Closing the browser 
+2017-03-02 14:30:40,228 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-03-02 14:30:40,228 INFO  [Log] X 
+2017-03-02 14:30:40,228 INFO  [Log] X 
+2017-03-02 14:30:40,228 INFO  [Log] X 
+2017-03-02 14:30:40,228 INFO  [Log] X 
